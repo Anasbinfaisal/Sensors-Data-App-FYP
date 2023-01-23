@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FYP Sensors</string>
+
+    <string-array name="sensors">
+        <item>none</item>
+        <item>Body Temperature (Celsius)</item>
+        <item>Body Temperature (Fahrenheit)</item>
+        <item>Humidity</item>
+        <item>MQ-131</item>
+        <item>MQ-135</item>
+        <item>MQ-2</item>
+        <item>MQ-7</item>
+        <item>NO2</item>
+        <item>Room Temperature</item>
+        <item>Heart Rate</item>
+        <item>Oxygen</item>
+        <item>All</item>
+     </string-array>
+
+</resources>

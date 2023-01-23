@@ -1,0 +1,3 @@
+
+//rootProject.name = "ExampleGradle7"
+include ':app'

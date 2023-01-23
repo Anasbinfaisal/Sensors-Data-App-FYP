@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "368941655323",
+    "firebase_url": "https://fyp-project-ffeac-default-rtdb.firebaseio.com",
+    "project_id": "fyp-project-ffeac",
+    "storage_bucket": "fyp-project-ffeac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368941655323:android:177b37074671d5117a1fbe",
+        "android_client_info": {
+          "package_name": "com.example.root.fire_major_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368941655323-r4eqdl9pkihp1ba2p6t4vfbcs2mo3kff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpbNLXPcvkKeRv6q2tD4wgMF6sQgx_Yh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368941655323-r4eqdl9pkihp1ba2p6t4vfbcs2mo3kff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
